@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @Musya-Lungi
-- 👀 I’m interested in web development and mobile app design...
-- 🌱 I’m currently learning django, springboot, Reactjs
-- 💞️ I’m looking to collaborate on developing responsive web applications which integrate these technologies...
-- 📫 How to reach me 
-                     
-                     twitter(@Musya_c20a002)...
-                     facebook(Musya Lungi)
+👋 Hi, I’m @Musya-Lungi  
+Web Developer | Data Scientist | Enthusiast of combining technology with data-driven solutions.  
 
-<!---
-Musya-Lungi/Musya-Lungi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning:
+- Web Development: Django, React, Next.js, and full-stack development.
+- Data Science: Machine Learning, Data Analysis, Deep Learning, and Data Visualization.
+
+💡 Passionate about creating seamless web applications and deriving insights from complex data.  
+🚀 Always looking for new challenges and collaborations in web development and data science.  
+📫 Reach me via: [Twitter](https://twitter.com/Musya_c20a002) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
