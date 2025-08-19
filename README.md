@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack MERN Developer | Building Scalable Web Apps**
 
-Welcome to my GitHub! I specialize in building robust, scalable, and user-friendly web applications using the MERN stack. From clean backend APIs to responsive UIs, I bring full-stack ideas to life with performance and precision.
+Welcome to my GitHub! I specialize in building robust, scalable, and user-friendly web applications. From clean backend APIs to responsive UIs, I bring full-stack ideas to life with performance and precision.
 
 ---
 
